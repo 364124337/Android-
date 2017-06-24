@@ -1,15 +1,16 @@
-# ·ÂÍøÒ×ÐÂÎÅµÄ¿Í»§¶Ë  Ê¹ÓÃ¾ÛºÏÊý¾ÝµÄ½Ó¿Ú  
-# ÀàÐÍ top(Í·Ìõ£¬Ä¬ÈÏ),shehui(Éç»á),guonei(¹úÄÚ),guoji(¹ú¼Ê),yule(ÓéÀÖ),tiyu(ÌåÓý)junshi(¾üÊÂ),keji(¿Æ¼¼),caijing(²Æ¾­),shishang(Ê±ÉÐ)
+![news](xinwen.jpg)
+# ä»¿ç½‘æ˜“æ–°é—»çš„å®¢æˆ·ç«¯  ä½¿ç”¨èšåˆæ•°æ®çš„æŽ¥å£  
+# ç±»åž‹ top(å¤´æ¡ï¼Œé»˜è®¤),shehui(ç¤¾ä¼š),guonei(å›½å†…),guoji(å›½é™…)
+# yule(å¨±ä¹),tiyu(ä½“è‚²)junshi(å†›äº‹),keji(ç§‘æŠ€),caijing(è´¢ç»),shishang(æ—¶å°š)
 
-Ö÷½çÃæ°üº¬4¸öTab£¬TabLayout
-¶¥²¿¿ÉÒÔÑ¡ÔñÐÂÎÅÀàÐÍ£¬ Recycleview ºáÏò
-Ò²¿ÉÒÔÅäÖÃÐÂÎÅÀàÐÍ  ×öÒ»¸öÅäÖÃÒ³Ãæ  gridview 
+ä¸»ç•Œé¢åŒ…å«4ä¸ªTabï¼ŒTabLayout
+é¡¶éƒ¨å¯ä»¥é€‰æ‹©æ–°é—»ç±»åž‹ï¼Œ Recycleview æ¨ªå‘
+ä¹Ÿå¯ä»¥é…ç½®æ–°é—»ç±»åž‹  åšä¸€ä¸ªé…ç½®é¡µé¢  gridview 
 
-ÐÂÎÅÒ³Ãæ£¬¿ÉÒÔÆÀÂÛ£¬¿ÉÒÔÊÕ²Ø£¬¿ÉÒÔ·ÖÏí¡£
+æ–°é—»é¡µé¢ï¼Œå¯ä»¥è¯„è®ºï¼Œå¯ä»¥æ”¶è—ï¼Œå¯ä»¥åˆ†äº«ã€‚
 
-ÐÂ×°Ò»¸öÓ¦ÓÃµÄÊ±ºò    
-Òýµ¼Ò³  Ó¦ÓÃ½éÉÜ  ViewFlipper 
-Òýµ¼Ò³Ó¦¸ÃÊÇÔÚµÚÒ»´ÎÆô¶¯²ÅÏÔÊ¾ µÚ¶þ´ÎÖ®ºó²»ÔÙÏÔÊ¾ÁË
-ÔõÑùÅÐ¶ÏµÚÒ»´Î   ÏÔÊ¾ÍêÒýµ¼Ò³Ö®ºóÎÒ´æÒ»¸ö±ê¼Ç
+æ–°è£…ä¸€ä¸ªåº”ç”¨çš„æ—¶å€™    
+å¼•å¯¼é¡µ  åº”ç”¨ä»‹ç»  ViewFlipper 
+å¼•å¯¼é¡µåº”è¯¥æ˜¯åœ¨ç¬¬ä¸€æ¬¡å¯åŠ¨æ‰æ˜¾ç¤º ç¬¬äºŒæ¬¡ä¹‹åŽä¸å†æ˜¾ç¤ºäº†
+æ€Žæ ·åˆ¤æ–­ç¬¬ä¸€æ¬¡   æ˜¾ç¤ºå®Œå¼•å¯¼é¡µä¹‹åŽæˆ‘å­˜ä¸€ä¸ªæ ‡è®°
 
-Æô¶¯Ò³  2Ãë
